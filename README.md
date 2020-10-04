@@ -27,7 +27,7 @@ Based on the NASA dataset that we analaysed, the rate emiting of carbon dioxide,
 
 Our team has a took in a consideration to overcome this problem that grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car"
 
-It is haven't exist yet but it it theorectically possible. If mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car?
+It is haven't exist yet but it it theorectically possible. If mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car? Further explanation is explained throughout the 3 minutes pitching videos.
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/NASA-NERVA-diagram.jpg?raw=true)
 
