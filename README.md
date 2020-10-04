@@ -9,11 +9,11 @@ Team Member
 5) Mark Irvine - Bachelor of Engineering in Chemical (Universiti Teknologi Malaysia)
 
 
-Our team has selected theme for susatain our planet for future generations
+Our team has selected the theme for sustaining our planet for future generations.
 
-Introduction - There is concern worldwide that enviromental issues we face today will have an impact on future generations. Our challenge is to create a way to communicate the inmportance of environmental responsibility to people of all generation.
+Introduction - There is a concern worldwide that environmental issues we face today will have an impact on future generations. Our challenge is to create a way to communicate the importance of environmental responsibility to people of all generations.
 
-Based on the NASA dataset that we analaysed, the rate emiting of carbon dioxide, the global temperature and sea level are all increasing over the years. One of the main contributor for climate change problem is air pollution. As the number of car productions are increasing as well, indirectly, the number of harmful gas that emmited form car's exhaust are increasing too.
+Based on the NASA dataset that we analysed, the rate limiting of carbon dioxide, the global temperature and sea level are all increasing over the years. One of the main contributors to the climate change problem is air pollution. As the number of car productions is increasing as well, indirectly, the amount of harmful gases that limited form car's exhaust are increasing too.
 
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20carbon%20dioxide.png?raw=true)
@@ -24,14 +24,17 @@ Based on the NASA dataset that we analaysed, the rate emiting of carbon dioxide,
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20sea%20level.png?raw=true)
 
+Our team has a took into a consideration to overcome this problem that has grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car".
 
-Our team has a took in a consideration to overcome this problem that grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car"
-
-It is haven't exist yet but it it theorectically possible. If mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car? Further explanation is explained throughout the 3 minutes pitching videos.
+It does not exist yet, but it is theoretically possible. If a mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car? Further explanation is explained throughout the 3 minutes pitching videos.
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/NASA-NERVA-diagram.jpg?raw=true)
 
-The picture is only for visualise, illutiation and explanation purposes. 
+![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/ford-nucleon-nuclear-car.jpg?raw=true)
+
+![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/nuclear-powered-car-06.jpg?raw=true)
+
+These pictures are only for visualise, illustration and explanation purposes. 
 All pictures are credited to its owner.
 
 
