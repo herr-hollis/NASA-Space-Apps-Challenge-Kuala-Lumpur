@@ -4,7 +4,7 @@ This repository will be using the source of information
 Team Member
 1) Hollis Francis - B.Sc in Physics (Universiti Teknologi Malaysia)
 2) Leo - B.Sc in Computer Science (Sunway Unversity)
-3) Steven - Bachelor of Social Science in Psychology (Universiti Tunku Abdul Rahman)
+3) Tan Chor Sheng - Bachelor of Social Science (Hons) Psychology (Universiti Tunku Abdul Rahman)
 4) Chu Jian Zhen - Bachelor of Engineering in Electrical (Universiti Teknologi Malaysia)
 5) Mark Irvine - Bachelor of Engineering in Chemical (Universiti Teknologi Malaysia)
 
