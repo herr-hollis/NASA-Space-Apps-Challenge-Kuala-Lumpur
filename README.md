@@ -15,5 +15,7 @@ Introduction - There is concern worldwide that enviromental issues we face today
 
 Our team has a took in a consideration to overcome this problem that grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car"
 
+![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/NASA-NERVA-diagram.jpg?raw=true)
+
 
 
