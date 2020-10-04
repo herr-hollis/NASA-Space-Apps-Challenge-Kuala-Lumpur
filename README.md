@@ -13,4 +13,7 @@ Our team selected theme for susatain our planet for future generations
 
 Introduction - There is concern worldwide that enviromental issues we face today will have an impact on future generations. Our challenge is to create a way to communicate the inmportance of environmental responsibility to people of all generation.
 
+Our team has a took in a consideration to overcome this problem that grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car"
+
+
 
