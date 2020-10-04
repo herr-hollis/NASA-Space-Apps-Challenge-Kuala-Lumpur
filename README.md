@@ -1,7 +1,7 @@
 # NASA-Space-Apps-Challenge-Kuala-Lumpur
-This repository will be using the source of information for our ideathon 3 minutes video
+This repository will use as the source of information for our Ideathon 3 minutes video.
 
-Team Member
+Team Members
 1) Hollis Francis - B.Sc in Physics (Universiti Teknologi Malaysia)
 2) Leo - B.Sc in Computer Science (Sunway Unversity)
 3) Tan Chor Sheng - Bachelor of Social Science (Hons) Psychology (Universiti Tunku Abdul Rahman)
@@ -13,8 +13,7 @@ Our team has selected the theme for sustaining our planet for future generations
 
 Introduction - There is a concern worldwide that environmental issues we face today will have an impact on future generations. Our challenge is to create a way to communicate the importance of environmental responsibility to people of all generations.
 
-Based on the NASA dataset that we analysed, the rate limiting of carbon dioxide, the global temperature and sea level are all increasing over the years. One of the main contributors to the climate change problem is air pollution. As the number of car productions is increasing as well, indirectly, the amount of harmful gases that limited form car's exhaust are increasing too.
-
+Based on the NASA dataset that we analysed, the rate of carbon dioxide, the global temperature and sea level are all increasing over the years. One of the main contributors to the climate change problem is air pollution. As the number of car productions is increasing as well, indirectly, the amount of harmful gases that limited form car's exhaust are increasing too.
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20carbon%20dioxide.png?raw=true)
 
