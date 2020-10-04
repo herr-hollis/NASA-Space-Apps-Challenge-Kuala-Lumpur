@@ -25,7 +25,7 @@ Based on the NASA dataset that we analysed, the rate of carbon dioxide, the glob
 
 Our team has a took into a consideration to overcome this problem that has grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car".
 
-It does not exist yet, but it is theoretically possible. If a mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car? Further explanation is explained throughout the 3 minutes pitching videos.
+It does not exist yet, but it is theoretically possible. If a mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car? 
 
 Overview - Nuclear energy is known for its environmental friendliness, despite radioactivity. Naval reactors have been in use since 1955 with the first nuclear submarine. Since the launch of that submarine, using nuclear reactors has become even safer, easier to maintain, more space efficient and even practical for nowadays usage. Naval reactors since then have increased in power, increased in reliability and decreased in size over the year
 
