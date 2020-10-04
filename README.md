@@ -18,7 +18,7 @@ Based on the NASA dataset that we analysed, the rate of carbon dioxide, the glob
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20carbon%20dioxide.png?raw=true)
 
 
-![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20carbon%20dioxide.png?raw=true)
+![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20global%20temperature.png?raw=true)
 
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20sea%20level.png?raw=true)
