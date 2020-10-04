@@ -27,6 +27,10 @@ Our team has a took into a consideration to overcome this problem that has grown
 
 It does not exist yet, but it is theoretically possible. If a mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car? Further explanation is explained throughout the 3 minutes pitching videos.
 
+Overview - Nuclear energy is known for its environmental friendliness, despite radioactivity. Naval reactors have been in use since 1955 with the first nuclear submarine. Since the launch of that submarine, using nuclear reactors has become even safer, easier to maintain, more space efficient and even practical for nowadays usage. Naval reactors since then have increased in power, increased in reliability and decreased in size over the year
+
+If it is possible to fit into a submarine, we can’t invent a nuclear powered car? Cars, like submarines, are limited by space and weight although not limited by being surrounded by water. In fact, car exhaust emissions into the air has been a significant issue in the causation of air pollution. We believe that to reduce emissions from vehicles we need to act as if we cannot exhaust emissions into the air, hence the need for nuclear powered cars.
+
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/NASA-NERVA-diagram.jpg?raw=true)
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/ford-nucleon-nuclear-car.jpg?raw=true)
