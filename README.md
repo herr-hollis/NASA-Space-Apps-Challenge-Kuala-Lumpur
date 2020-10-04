@@ -13,7 +13,7 @@ Our team has selected the theme for sustaining our planet for future generations
 
 Introduction - There is a concern worldwide that environmental issues we face today will have an impact on future generations. Our challenge is to create a way to communicate the importance of environmental responsibility to people of all generations.
 
-Based on the NASA dataset that we analysed, the rate of carbon dioxide, the global temperature and sea level are all increasing over the years. One of the main contributors to the climate change problem is air pollution. As the number of car productions is increasing as well, indirectly, the amount of harmful gases that limited form car's exhaust are increasing too.
+Based on the NASA dataset that we analysed, the rate of carbon dioxide, the global temperature and sea level are all increasing over the years. One of the main contributors to the climate change problem is air pollution. As the number of car productions is increasing , indirectly, the amount of harmful gases that emitted from car's exhaust are increasing too.
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/Nasa_dataset%20on%20carbon%20dioxide.png?raw=true)
 
@@ -29,7 +29,7 @@ It does not exist yet, but it is theoretically possible. If a mini nuclear react
 
 Overview - Nuclear energy is known for its environmental friendliness, despite radioactivity. Naval reactors have been in use since 1955 with the first nuclear submarine. Since the launch of that submarine, using nuclear reactors has become even safer, easier to maintain, more space efficient and even practical for nowadays usage. Naval reactors since then have increased in power, increased in reliability and decreased in size over the year
 
-If it is possible to fit into a submarine, we can’t invent a nuclear powered car? Cars, like submarines, are limited by space and weight although not limited by being surrounded by water. In fact, car exhaust emissions into the air has been a significant issue in the causation of air pollution. We believe that to reduce emissions from vehicles we need to act as if we cannot exhaust emissions into the air, hence the need for nuclear powered cars.
+If it is possible to fit into a submarine, why can’t we invent a nuclear powered car? Cars, like submarines, are limited by space and weight although not limited by being surrounded by water. In fact, car exhaust emissions into the air has been a significant issue in the causation of air pollution. We believe that to reduce emissions from vehicles we need to act as if we cannot exhaust emissions into the air, hence the need for nuclear powered cars.
 
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/NASA-NERVA-diagram.jpg?raw=true)
 
