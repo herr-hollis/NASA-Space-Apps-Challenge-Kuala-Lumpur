@@ -9,7 +9,7 @@ Team Member
 5) Mark Irvine - Bachelor of Engineering in Chemical (Universiti Teknologi Malaysia)
 
 
-Our team selected theme for susatain our planet for future generations
+Our team has selected theme for susatain our planet for future generations
 
 Introduction - There is concern worldwide that enviromental issues we face today will have an impact on future generations. Our challenge is to create a way to communicate the inmportance of environmental responsibility to people of all generation.
 
@@ -27,7 +27,12 @@ Based on the NASA dataset that we analaysed, the rate emiting of carbon dioxide,
 
 Our team has a took in a consideration to overcome this problem that grown with alarming rates. We have a proposal idea that yet might be possible for future invention, that is "Nuclear Powered Car"
 
+It is haven't exist yet but it it theorectically possible. If mini nuclear reactor can fit into a small size submarine, why don't we implement this innovation into a car?
+
 ![alt text](https://github.com/holiz12/NASA-Space-Apps-Challenge-Kuala-Lumpur/blob/main/NASA-NERVA-diagram.jpg?raw=true)
+
+The picture is only for visualise, illutiation and explanation purposes. 
+All pictures are credited to its owner.
 
 
 
